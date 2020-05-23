@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Amir, Goren"
   avatar           : "profile.png"
-  bio              : "Computer Vision & Deep Learning Reseracher"
+  bio              : "Computer Vision & Deep Learning Researcher, Intel Imaging Camera Group"
   location         : "Israel"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            : "Intel"
+  email            : "amir.gore@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
