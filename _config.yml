@@ -81,12 +81,12 @@ analytics:
 # Site Author
 author:
   name             : "Amir, Goren"
-  avatar           : "profile.png"
+  avatar           : "bio_profile.png"
   bio              : "Computer Vision & Deep Learning Researcher, Intel Imaging Camera Group"
   location         : "Israel"
   employer         :
   pubmed           : 
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : 
   email            : "amir.gore@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
