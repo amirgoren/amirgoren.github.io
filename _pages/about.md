@@ -9,10 +9,10 @@ redirect_from:
 ---
 
 
-Short summary
+Bio
 ======
-I am algorithm engineer, MSc in electrical engineering, specialized in DSP and computer vision.
-My intersets areas are mainly deep learning, rnn, generative models, computer-vision and multi-modality.
+Algorithm engineer, MSc in electrical engineering.
+Interset areas are but not limited to deep learning, rnn, generative models, computer-vision and multi-modality.
 
 
 
