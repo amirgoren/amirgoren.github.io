@@ -12,8 +12,8 @@ Amir, Goren Resume
 
 Short summary
 ======
-I am algorithm engineer, MSc in Electrical Engineer, specialize in computer vision.
-My intersets areas are main deep learning, rnn, computer-vision and multi-modality.
+I am algorithm engineer, MSc in electrical engineering, specialized in DSP and computer vision.
+My intersets areas are main deep learning, rnn, generative models, computer-vision and multi-modality.
 
 
 
